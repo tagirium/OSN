@@ -1,0 +1,59 @@
+    1  apt-get install gcc
+    2  sudo apt-get install gcc
+    3  sudo apt-get update
+    4  whoami
+    5  mkdir ~/week1
+    6  cd ~/week1
+    7  ls
+    8  cd ./
+    9  ./
+   10  cd ../
+   11  cd /usr/bin
+   12  ls
+   13  ls gcc
+   14  cd ../
+   15  cd ~
+   16  cd week1
+   17  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   18  cat ex1.txt
+   19  apt update
+   20  sudo apt update
+   21  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   22  cat ex1.txt
+   23  ls /usr/bin | grep gcc 
+   24  sudo updatedb
+   25  gcc
+   26  sudo apt install gcc
+   27  sudo apt install gcc --fix-missing
+   28  ping google.com
+   29  cat /etc/resolv.conf
+   30  ping google.com
+   31  sudo apt install gcc --fix-missing
+   32  sudo apt install gcc
+   33  sudo apt-get update
+   34  sudo apt-get updatedb
+   35  sudo updatedb
+   36  ping google.com
+   37  sudo apt upgrade
+   38  sudo apt update
+   39  sudo apt upgrade
+   40  sudo apt autoremove
+   41  gcc
+   42  sudo apt-get update
+   43  sudo apt-get update -y
+   44  ipconfig /all
+   45  cat /etc/resolv.conf
+   46  gedit /etc/resolv.conf
+   47  sudo apt install gedit
+   48  cat /etc/resolv.conf
+   49  ping 192.168.1.1
+   50  lxrun /uninstall
+   51  cd week1
+   52  sudo apt-get update
+   53  sudo apt-get upgrad
+   54  sudo apt-get upgrade
+   55  gcc
+   56  sudo apt-get install gcc
+   57  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   58  cat ex1.txt
+   59  history > ex2.txt

@@ -1,0 +1,1 @@
+8 KB means that we have 2^13 bytes for each page. 16 - 13 = 3, so we have 2^3=8 entries to make a single-level page table.

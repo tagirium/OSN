@@ -1,0 +1,1 @@
+If you will try to access same pages more often, then your Hit/Miss ratio will increase, and decrease - otherwise. Also, it also depends on how much page frames you can hold at a time - if more, then ratio will increase too.

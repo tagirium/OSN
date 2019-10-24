@@ -1,0 +1,5 @@
+1) execute permission was removed by chmod a=rw _ex3.txt
+2) by chmod u=rwx _ex3.txt and chmod g=rwx _ex3.txt for owner and group respectively
+3) chmod g=u _ex3.txt
+4) each number in 660, 775 or 777 is for owner, group or other respectively. Let's imagine that either r, w, or x
+is 1, otherwise 0. then 7 stands for 111=rwx, 6=110=rw-, 5=101=r-x

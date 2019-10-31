@@ -1,0 +1,2 @@
+"\n" triggers cleaning of buffer, so in first case we fork before it actually prints Hello, and in second case it 
+forks after printing.

@@ -27,7 +27,7 @@ int main(int argc, char const *argv[])
 		}
 		else if (i != argc)
 		{
-			appends[i+1] = 1;
+			appends[i] = 1;
 		}
 		else
 		{

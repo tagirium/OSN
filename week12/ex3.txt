@@ -1,0 +1,2 @@
+While we will increase BUF_SIZE, we will get less real time and system time, and otherwise. While we decrease SYNC,
+we will get less real time.
